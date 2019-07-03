@@ -2,9 +2,6 @@
 .*
 *~
 
-# Ignore Swift packages.
-Packages/
-
 # Keep git files.
 !.gitignore
 !.gitattributes
