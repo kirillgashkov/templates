@@ -1,0 +1,25 @@
+# Ignore system files.
+.*
+*~
+
+# Ignore LaTeX cache.
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.toc
+*.bbl
+*.blg
+*.xdv
+*.lof
+*.lot
+
+# Ignore LaTeX build.
+main.pdf
+
+# Keep git files.
+!.gitignore
+!.gitattributes
+!.gitmodules
+!.gitkeep
