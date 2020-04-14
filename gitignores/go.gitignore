@@ -1,0 +1,12 @@
+# Ignore system files.
+.*
+*~
+
+# Ignore Go builds.
+bin/
+
+# Keep git files.
+!.gitignore
+!.gitattributes
+!.gitmodules
+!.gitkeep
