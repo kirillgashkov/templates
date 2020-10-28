@@ -1,8 +1,8 @@
-# Ignore system files.
+# Ignore system files
 .*
 *~
 
-# Ignore LaTeX cache.
+# Ignore LaTeX cache
 *.aux
 *.fdb_latexmk
 *.fls
@@ -15,10 +15,10 @@
 *.lof
 *.lot
 
-# Ignore LaTeX build.
+# Ignore LaTeX build
 main.pdf
 
-# Keep git files.
+# Keep git files
 !.gitignore
 !.gitattributes
 !.gitmodules
