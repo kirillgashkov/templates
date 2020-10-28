@@ -1,24 +1,24 @@
-# Ignore system files.
+# Ignore system files
 .*
 *~
 
-# Ignore Swift packages.
+# Ignore Swift packages
 Packages/
 
-# Ignore Xcode settings.
+# Ignore Xcode settings
 *.pbxuser
 *.mode1v3
 *.mode2v3
 *.perspectivev3
 xcuserdata/
 
-# Keep default Xcode settings.
+# Keep default Xcode settings
 !default.pbxuser
 !default.mode1v3
 !default.mode2v3
 !default.perspectivev3
 
-# Keep git files.
+# Keep git files
 !.gitignore
 !.gitattributes
 !.gitmodules

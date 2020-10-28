@@ -1,22 +1,22 @@
-# Ignore system files.
+# Ignore system files
 .*
 *~
 
-# Ignore builds.
+# Ignore builds
 dist/
 
-# Ignore JavaScript packages.
+# Ignore JavaScript packages
 node_modules/
 
-# Ignore Yarn logs.
+# Ignore Yarn logs
 yarn-debug.log*
 yarn-error.log*
 
-# Keep configuration.
+# Keep configuration
 !.browserslistrc
 !.eslintrc.js
 
-# Keep git files.
+# Keep git files
 !.gitignore
 !.gitattributes
 !.gitmodules
